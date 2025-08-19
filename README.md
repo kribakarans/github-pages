@@ -1,11 +1,10 @@
-# Workflow Deployments
+# GitHub Action Deployments
 
 ## GitHub
 
-- [Atomixcloud (PPA)](https://atomixcloud.github.io/ppa/)
 - [Backtrace](https://kribakarans.github.io/backtrace/)
 - [ChatGPT](https://kribakarans.github.io/chatgpt/)
-- [Concepts](https://kribakarans.github.io/concepts/)
+- [Concepts](https://kribakarans.github.io/koncepts/)
 - [CPLibs](https://kribakarans.github.io/cplibs/)
 - [DXAlloc](https://kribakarans.github.io/dxalloc/)
 - [Handbooks](https://kribakarans.github.io/handbooks/)
@@ -24,7 +23,6 @@
 - [Remote Shell](https://kribakarans.github.io/remote-shell/)
 - [Woboq CodeBrowser](https://kribakarans.github.io/woboq-codebrowser/)
 - [Workflows](https://kribakarans.github.io/workflows/)
-- [Xplore](https://kribakarans.github.io/xplore/)
 
 ## GitBook
 
@@ -34,9 +32,4 @@
 - [Howto](https://kribakarans.gitbook.io/howto/)
 - [HTML](https://kribakarans.gitbook.io/html/)
 
-### Inactive Deployments
-
-https://kribakarans.github.io/ambiorix/<br>
-https://kribakarans.github.io/github-page/<br>
-https://kk-sandbox.github.io/github-action-1/<br>
-https://kribakarans.github.io/ktest-gtags-xref/<br>
+---
