@@ -1,4 +1,6 @@
-# GitHub Action Deployments
+# [GitHub Pages](https://kribakarans.github.io/github-pages)
+
+Deployed GitHub and GitBook Pages.
 
 ## GitHub
 
@@ -22,7 +24,6 @@
 - [Readline Autocomplete](https://kribakarans.github.io/readline-autocomplete/)
 - [Remote Shell](https://kribakarans.github.io/remote-shell/)
 - [Woboq CodeBrowser](https://kribakarans.github.io/woboq-codebrowser/)
-- [Workflows](https://kribakarans.github.io/workflows/)
 
 ## GitBook
 
