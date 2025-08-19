@@ -6,7 +6,6 @@ Deployed GitHub and GitBook Pages.
 
 - [Backtrace](https://kribakarans.github.io/backtrace/)
 - [ChatGPT](https://kribakarans.github.io/chatgpt/)
-- [Concepts](https://kribakarans.github.io/koncepts/)
 - [CPLibs](https://kribakarans.github.io/cplibs/)
 - [DXAlloc](https://kribakarans.github.io/dxalloc/)
 - [Handbooks](https://kribakarans.github.io/handbooks/)
@@ -15,6 +14,8 @@ Deployed GitHub and GitBook Pages.
 - [KFile](https://kribakarans.github.io/kfile/)
 - [KGit](https://kribakarans.github.io/kgit/)
 - [KHelp](https://kribakarans.github.io/khelp/)
+- [Koncepts](https://kribakarans.github.io/koncepts/)
+- [Kollections](https://klabkode.github.io/kollections/)
 - [KPass](https://kribakarans.github.io/kpass/)
 - [KTags](https://kribakarans.github.io/ktags/)
 - [KTest](https://kribakarans.github.io/ktest/)
